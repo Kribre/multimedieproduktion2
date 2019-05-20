@@ -1,0 +1,48 @@
+@charset "UTF-8";
+/* CSS Document */
+body{
+	font-family: "proxima-nova",sans-serif; 
+}
+
+.video-container {
+    position: relative;
+    background-color: #1b768b;
+}
+video  {
+ 	height: auto;
+  	vertical-align: middle;
+  	width: 100%;
+ 	opacity: 0.3;
+}
+
+.overlay-head {
+    margin-top: 400px;
+	font-size: 30px;
+}
+.overlay-img {
+    margin-top: 110px;
+}
+
+.overlay-txt {
+    margin: 550px auto;
+    font-size: 18px;
+    text-align: center;
+ }
+.newspaper {
+	column-count: 2;
+}
+.overlay-citat {
+    margin: 730px auto;
+    font-size: 22px;
+    text-align: center;
+ }
+.overlayall{
+	height: auto;
+    width: 100%;
+    justify-content: center;
+    position: absolute;
+    top: 0; right: 0; bottom: 0; left: 0;
+    display: flex;
+    color: white;
+}
+
