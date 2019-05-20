@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /* CSS Document */
 body{
-	font-family: "proxima-nova",sans-serif; 
+	font-family: "proxima-nova",sans-serif;
 	max-width: 1920px;
 }
 
@@ -62,4 +62,3 @@ video  {
   	display: flex;
 	border-radius: 8px;
 }
-
